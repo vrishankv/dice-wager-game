@@ -1,5 +1,5 @@
 # dice-wager-game
-Basic app using flutter.
+Basic app using Flutter.
 
 4 Dice are rolled..🎲🎲🎲🎲
 Bet on how many show the same value!💸💸
@@ -9,5 +9,9 @@ So, you lose twice the amount or... win back that much 👀👀.
 
 PS: Doesn't include extra fancy functionality like music and fancy animations.
 
+Included the yaml file due to extra dependencies added (flutter toast).
 
-![WhatsApp Image 2024-12-26 at 10 52 44 PM](https://github.com/user-attachments/assets/c4f547ca-d488-427d-a08d-1aa7e6cccb52)
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/c4f547ca-d488-427d-a08d-1aa7e6cccb52" alt="ScreenShot of App" height = "300" width="300" align="center">
+</div>
